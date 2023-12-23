@@ -12,6 +12,10 @@ table{
 th, td{
     border: none;
 }
+h1{
+    text-align: center;
+    margin-top: 50px;
+}
 .nums, .sym, .clear{
     width: 50px;
     height: 30px;
